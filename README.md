@@ -2,9 +2,13 @@
 Supply Chain &amp; Logistics Data Analyst Internship portfolio showcasing end-to-end data cleaning, SQL queries, Python analysis, and interactive Power BI dashboards for operational efficiency.
 
 🚚 End-to-End Supply Chain Analytics & Predictive Freight Cost Optimization
+
 YuvaIntern Logistics Data Science & Machine Learning Internship Portfolio Project
+
 📌 Executive Summary
+
 Fluctuations in transportation tariffs, unpredictable carrier surcharges, and inefficient route dispatch logic directly compromise operational margins in modern 3PL/4PL supply chain networks.
+
 This repository houses an end-to-end analytics and machine learning pipeline built over a 4-week structured internship framework. The project ingests raw fulfillment transactions, performs automated data preprocessing and outlier scrubbing, executes exploratory statistical analysis (EDA), and deploys predictive regression models to forecast Freight Shipping Fees (freight_cost_inr).
 Key Quantified Outcomes
 Prediction Accuracy: Reached an $R^2$ score of 99.25% with a Mean Absolute Error (MAE) of ₹15.50, outperforming ensemble decision trees for linear freight pricing matrices.
